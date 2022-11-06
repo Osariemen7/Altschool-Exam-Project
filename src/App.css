@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  
+}
+nav {
+  text-align: end;
+  padding: 2%;
+}
+.nav {
+  text-decoration: none;
+  margin: 20px;
+  color: rgb(6, 6, 71);
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.nav:hover {
+  color:white;
+  background-color: blue;
+}
+ .name {
+  font-family: 'Great Vibes';
+  font-size: 50px;
+}
+button {
+  font-family: 'Oswald', sans-serif;
+  margin: 10px;
+  font-size: 30px;
+  color: white;
+  background-color:rgb(6, 6, 71);
+  border-radius: 7px;
+}
+.num {
+  font-size: 40px;
+}
+input {
+  width: 70px;
+  font-size: 20px;
+}
